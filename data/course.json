@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "17129b5a-df0b-8a2b-f3e1-3e64d4af4040",
+  "instructors": {
+    "content": [
+      "63184404-c108-d4d0-e89c-920a2d1dfbc9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4ce7ffd1-29e7-a9f3-b966-d9c9a3c0cd4e",
+    "website": "18-725-algebraic-geometry-fall-2003"
+  },
+  "course_title": "Algebraic Geometry",
+  "course_description": "This course covers the fundamental notions and results about algebraic varieties over an algebraically closed field. It also analyzes the relations between complex algebraic varieties and complex analytic varieties.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.725",
+  "course_image_thumbnail": {
+    "content": "766e61f2-e6e4-29ab-8e11-dd6a897fd584",
+    "website": "18-725-algebraic-geometry-fall-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "062c1b9d-18d6-4425-b1a1-4f2b63dd94ea",
+  "site_short_id": "18.725-fall-2003",
+  "site_url_path": "courses/18-725-algebraic-geometry-fall-2003",
+  "title": "Course Metadata"
+}
